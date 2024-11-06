@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MoveOperation.resetIfNotOnSameAxis(variable:reference:):MergeOperations.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MoveOperation.process(board:iterator:):MergeOperations.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastEmptyPosition = (index: current.offset, coordinate: current.element)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameStateTests.testSwipeRightAddsTileToMatchingTile():GameStateTests.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MergeRightOperation.calculateNextState(for:):MergeOperations.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GameStateTests.testSwipeToRightMovesTileToOuterEdge():GameStateTests.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GameState.randomTile(generator:):GameState.swift">
+      </ContextState>
+      <ContextState
+         contextName = "next() in FixedPositionGenerator #1 in GameStateTests.testSwipeToRightAddsTileInDifferentSpot():GameStateTests.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
